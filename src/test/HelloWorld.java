@@ -11,7 +11,7 @@ public class HelloWorld {
 		
 		System.out.println("to test shopping cart features");
 		
-		System.out.println("1 changes to class");
+		System.out.println("I changes to remote.master");
 			
 
 	}
