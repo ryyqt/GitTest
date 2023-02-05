@@ -8,6 +8,8 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		
 		System.out.println("Inside Developer_001 Branch");
+		
+		System.out.println("to test shopping cart features");
 
 	}
 
